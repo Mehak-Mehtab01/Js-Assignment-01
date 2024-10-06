@@ -1,5 +1,4 @@
-
-Here’s a README file based on the provided HTML and JavaScript assignment:
+ README file 
 
 JavaScript Alert Box and Script Placement Demonstration
 Overview
